@@ -1,5 +1,12 @@
 # @chainlink/ea
 
+## 1.0.94
+
+### Patch Changes
+
+- Updated dependencies [49aa167ba]
+  - @chainlink/etherchain-adapter@1.3.0
+
 ## 1.0.93
 
 ### Patch Changes

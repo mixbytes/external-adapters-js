@@ -1,5 +1,11 @@
 # @chainlink/etherchain-adapter
 
+## 1.3.0
+
+### Minor Changes
+
+- 49aa167ba: Updated etherchain gasprice endpoint to use /api/gasnow api. Updated tests to match new endpoint
+
 ## 1.2.39
 
 ### Patch Changes
